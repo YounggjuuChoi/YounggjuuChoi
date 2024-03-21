@@ -3,8 +3,7 @@
 ### 👋 Introduction
   
 Hi! I'm Young-Ju Choi.
-I'm currently pursuing the Ph.D. degree with the IT Engineering, Sookmyung Women’s University, South Korea.
-I'm a member of Intelligent Vision Processing Lab. (IVPL in short), Sookmyung Women’s University, South Korea.
+I received the B.S. degree of IT Engineering from Sookmyung Women’s University, South Korea, in 2017, the Ph.D. degree in IT Engineering from Sookmyung Women’s University, South Korea, in 2024.
 
   
 ### 📫 Contact
