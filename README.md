@@ -10,9 +10,11 @@ I received the B.S. degree of IT Engineering from Sookmyung Women’s University
   
 yj.choi@ivpl.sookmyung.ac.kr
 
+<!--
 ### ⚡ Blog
   
 https://young-square.tistory.com/
+-->
 
 ### ✏️ Research interests
   
